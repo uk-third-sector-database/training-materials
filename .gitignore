@@ -4,4 +4,5 @@ code/*.do
 presentations/*.pptx
 *.docx
 admin
-code/tso_spine_files*
+code/public*
+code/builder*
