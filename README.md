@@ -23,6 +23,6 @@ We are grateful to the Economic and Social Research Council for funding this pro
 
 ## Further information
 
-Please do not hesitate to get in contact if you have queries, criticisms or ideas regarding these materials or the project more generally: 
-[Professor Alasdair Rutherford](mailto:alasdair.rutherford@stir.ac.uk)
-[Dr Diarmuid McDonnell](mailto:diarmuid.mcdonnell@uws.ac.uk)
+Please do not hesitate to get in contact if you have queries, criticisms or ideas regarding these materials or the project more generally:
+* [Professor Alasdair Rutherford](mailto:alasdair.rutherford@stir.ac.uk)
+* [Dr Diarmuid McDonnell](mailto:diarmuid.mcdonnell@uws.ac.uk)
