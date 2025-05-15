@@ -1,0 +1,7 @@
+*.ipynb_checkpoints
+code/*.do
+*tmp*
+presentations/*.pptx
+*.docx
+admin
+code/tso_spine_files*
