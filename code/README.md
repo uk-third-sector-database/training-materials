@@ -2,7 +2,7 @@
 
 ## Interactive coding materials
 
-The lessons contain Python / R code for you to execute / run.
+The lessons contain Python code for you to execute / run.
 
 Typically you would download the data / code files to your local machine (e.g., laptop).
 
