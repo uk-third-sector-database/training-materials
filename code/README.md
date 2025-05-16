@@ -12,4 +12,4 @@ You need a Google account to be able to run the code notebooks. Once you have a 
 
 ### Python Notebooks
 
-* Civil Society Organisation Spine [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uk-third-sector-database/training-materials/blob/main/code/tm01-intro-to-data.ipynb)
+* Civil Society Organisation Spine [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/uk-third-sector-database/training-materials/blob/main/code/tm01-intro-to-civil-society-data.ipynb)
